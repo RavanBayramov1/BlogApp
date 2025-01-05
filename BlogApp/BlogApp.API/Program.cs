@@ -22,8 +22,12 @@ namespace BlogApp.API
                 opt.UseSqlServer(builder.Configuration.GetConnectionString("MSSql"));
             });
 
+            builder.Services.AddJwtOptions(builder.Configuration);
             builder.Services.AddRepositories();
             builder.Services.AddServices();
+            builder.Services.AddHttpContextAccessor();
+            builder.Services.AddFluentValidation();
+            builder.Services.AddAutoMapper();
 
             var app = builder.Build();
 

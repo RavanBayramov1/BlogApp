@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\99450\\Desktop\\BlogApp\\",
+  "WorkspaceRootPath": "C:\\Users\\99450\\Desktop\\Project\\BlogApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C3F8062-64BA-43E2-A91B-3D030A8B1B20}|BlogApp.Core\\BlogApp.Core.csproj|c:\\users\\99450\\desktop\\blogapp\\blogapp.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C3F8062-64BA-43E2-A91B-3D030A8B1B20}|BlogApp.Core\\BlogApp.Core.csproj|solutionrelative:blogapp.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3994539-7AC1-4E9A-A3A6-F04349092F36}|BlogApp.API\\BlogApp.API.csproj|c:\\users\\99450\\desktop\\project\\blogapp\\blogapp.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3994539-7AC1-4E9A-A3A6-F04349092F36}|BlogApp.API\\BlogApp.API.csproj|solutionrelative:blogapp.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C3F8062-64BA-43E2-A91B-3D030A8B1B20}|BlogApp.Core\\BlogApp.Core.csproj|c:\\users\\99450\\desktop\\blogapp\\blogapp.core\\blogapp.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7C3F8062-64BA-43E2-A91B-3D030A8B1B20}|BlogApp.Core\\BlogApp.Core.csproj|solutionrelative:blogapp.core\\blogapp.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{5C075E8B-3963-42DE-89CD-6656B9A66F54}|BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\99450\\desktop\\project\\blogapp\\blogapp.bl\\services\\implements\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C075E8B-3963-42DE-89CD-6656B9A66F54}|BlogApp.BL\\BlogApp.BL.csproj|solutionrelative:blogapp.bl\\services\\implements\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C3F8062-64BA-43E2-A91B-3D030A8B1B20}|BlogApp.Core\\BlogApp.Core.csproj|c:\\users\\99450\\desktop\\blogapp\\blogapp.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C3F8062-64BA-43E2-A91B-3D030A8B1B20}|BlogApp.Core\\BlogApp.Core.csproj|solutionrelative:blogapp.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C075E8B-3963-42DE-89CD-6656B9A66F54}|BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\99450\\desktop\\project\\blogapp\\blogapp.bl\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C075E8B-3963-42DE-89CD-6656B9A66F54}|BlogApp.BL\\BlogApp.BL.csproj|solutionrelative:blogapp.bl\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3994539-7AC1-4E9A-A3A6-F04349092F36}|BlogApp.API\\BlogApp.API.csproj|c:\\users\\99450\\desktop\\blogapp\\blogapp.api\\blogapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F3994539-7AC1-4E9A-A3A6-F04349092F36}|BlogApp.API\\BlogApp.API.csproj|solutionrelative:blogapp.api\\blogapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{5C075E8B-3963-42DE-89CD-6656B9A66F54}|BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\99450\\desktop\\project\\blogapp\\blogapp.bl\\dtos\\userdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C075E8B-3963-42DE-89CD-6656B9A66F54}|BlogApp.BL\\BlogApp.BL.csproj|solutionrelative:blogapp.bl\\dtos\\userdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,45 +26,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\BlogApp\\BlogApp.Core\\Entities\\Category.cs",
-              "RelativeDocumentMoniker": "BlogApp.Core\\Entities\\Category.cs",
-              "ToolTip": "C:\\Users\\99450\\Desktop\\BlogApp\\BlogApp.Core\\Entities\\Category.cs",
-              "RelativeToolTip": "BlogApp.Core\\Entities\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T21:46:09.361Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\BlogApp\\BlogApp.Core\\Entities\\Common\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "BlogApp.Core\\Entities\\Common\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\99450\\Desktop\\BlogApp\\BlogApp.Core\\Entities\\Common\\BaseEntity.cs",
-              "RelativeToolTip": "BlogApp.Core\\Entities\\Common\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T21:44:28.004Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BlogApp.API",
-              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\BlogApp\\BlogApp.API\\BlogApp.API.csproj",
-              "RelativeDocumentMoniker": "BlogApp.API\\BlogApp.API.csproj",
-              "ToolTip": "C:\\Users\\99450\\Desktop\\BlogApp\\BlogApp.API\\BlogApp.API.csproj",
-              "RelativeToolTip": "BlogApp.API\\BlogApp.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-27T21:36:17.934Z",
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\Project\\BlogApp\\BlogApp.BL\\DTOs\\UserDtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "BlogApp.BL\\DTOs\\UserDtos\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\Project\\BlogApp\\BlogApp.BL\\DTOs\\UserDtos\\LoginDto.cs",
+              "RelativeToolTip": "BlogApp.BL\\DTOs\\UserDtos\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T17:34:01.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\Project\\BlogApp\\BlogApp.BL\\Services\\Implements\\AuthService.cs",
+              "RelativeDocumentMoniker": "BlogApp.BL\\Services\\Implements\\AuthService.cs",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\Project\\BlogApp\\BlogApp.BL\\Services\\Implements\\AuthService.cs",
+              "RelativeToolTip": "BlogApp.BL\\Services\\Implements\\AuthService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwDEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T16:32:22.813Z",
               "EditorCaption": ""
             },
             {
@@ -81,15 +68,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BlogApp.Core",
-              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\BlogApp\\BlogApp.Core\\BlogApp.Core.csproj",
-              "RelativeDocumentMoniker": "BlogApp.Core\\BlogApp.Core.csproj",
-              "ToolTip": "C:\\Users\\99450\\Desktop\\BlogApp\\BlogApp.Core\\BlogApp.Core.csproj",
-              "RelativeToolTip": "BlogApp.Core\\BlogApp.Core.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-27T21:37:53.97Z",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\Project\\BlogApp\\BlogApp.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "BlogApp.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\Project\\BlogApp\\BlogApp.API\\Controllers\\AuthController.cs*",
+              "RelativeToolTip": "BlogApp.API\\Controllers\\AuthController.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T16:28:36.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\Project\\BlogApp\\BlogApp.BL\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "BlogApp.BL\\Services\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\Project\\BlogApp\\BlogApp.BL\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "BlogApp.BL\\Services\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T16:31:44.579Z",
               "EditorCaption": ""
             }
           ]

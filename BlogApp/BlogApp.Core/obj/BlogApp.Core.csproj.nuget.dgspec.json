@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\99450\\Desktop\\BlogApp\\BlogApp.Core\\BlogApp.Core.csproj": {}
+    "C:\\Users\\99450\\Desktop\\Project\\BlogApp\\BlogApp.Core\\BlogApp.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\99450\\Desktop\\BlogApp\\BlogApp.Core\\BlogApp.Core.csproj": {
+    "C:\\Users\\99450\\Desktop\\Project\\BlogApp\\BlogApp.Core\\BlogApp.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\99450\\Desktop\\BlogApp\\BlogApp.Core\\BlogApp.Core.csproj",
+        "projectUniqueName": "C:\\Users\\99450\\Desktop\\Project\\BlogApp\\BlogApp.Core\\BlogApp.Core.csproj",
         "projectName": "BlogApp.Core",
-        "projectPath": "C:\\Users\\99450\\Desktop\\BlogApp\\BlogApp.Core\\BlogApp.Core.csproj",
+        "projectPath": "C:\\Users\\99450\\Desktop\\Project\\BlogApp\\BlogApp.Core\\BlogApp.Core.csproj",
         "packagesPath": "C:\\Users\\99450\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\99450\\Desktop\\BlogApp\\BlogApp.Core\\obj\\",
+        "outputPath": "C:\\Users\\99450\\Desktop\\Project\\BlogApp\\BlogApp.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\99450\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,14 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.11, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
